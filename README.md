@@ -3,3 +3,4 @@
 "npm install sqlite --save"
 "npm install sqlite3 --save"
 
+3) type "node index.js" in the terminal
